@@ -4,7 +4,7 @@ import React from 'react';
 import EmojiResult from 'src/components/emojiResult';
 import SearchInput from 'src/components/searchInput';
 
-import initialTasks from 'src/data/emojiList';
+import emojiList from 'src/data/emojiList';
 
 
 // == Import
